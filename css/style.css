@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+#enclose{
+ 
+    align:center;
+    z-index:50;
+    border:2px solid #000000;
+    background-color:#764ba2;
+    text-align:center;
+    margin:5px auto 5px auto;
+ }
+ body{
+    color:#95f252;
+    background-color:#00203fff;
+    font-family: 'Metal Mania', cursive;
+     
+ }
+ .resta{
+   background-color: coral;
+ }
+ .btn1{
+   position: relative;
+   color:#444444;
+   text-shadow:2px 2px 2px #111111;
+   background-color:#95f252;
+   border: 1px solid #a4a4a4;
+   left:150px;padding:15px;top:-20px;
+   
+ }
+ .btn2{
+   position: relative;
+   color:#444444;
+   text-shadow:2px 2px 2px #111111;
+   background-color:#95f252;
+   border: 1px solid #a4a4a4;
+   left:50px;padding:15px;;top:-10px;
+ }
+ .btn3{
+   position : relative;
+   left:250px;padding:15px; 
+   color:#444444;
+   text-shadow:2px 2px 2px #111111;
+   background-color:#95f252;
+   border: 1px solid #a4a4a4;;top:-60px;
+  
+ }
+ .btn43{
+   position:relative;
+   left:150px;
+   padding:15px; 
+   color:#444444;
+   text-shadow:2px 2px 2px #111111;
+   background-color:#95f252;
+   border: 1px solid #a4a4a4;
+   top:-106px;
+ }
+ .cw {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+   }
